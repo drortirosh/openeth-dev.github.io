@@ -1,3 +1,5 @@
+<title>openeth website</title>
+
 <H1>this is h1</H1>
 <H2> this is h2</H2>
 
