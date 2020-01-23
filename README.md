@@ -1,7 +1,4 @@
-# OpenEth dev website 
-## home for GSN, OSA and other TLAs
+# Openeth
+## Ethereum for everyone
 
-some text here
-
-- Link to [another page](anotherpage.md)
-- more info on [github markdown doc](https://www.markdownguide.org/tools/github-pages/)
+[Gas Stations Network](https://github.com/openeth-dev/gsn)
